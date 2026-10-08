@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Iceorange"
-description              : "Iceorange's Homepage.CS student @FZU.Coding.Learning.Creating. "
+title                    : "yanhui-losy"
+description              : "yanhui-losy's Homepage.CS student @FZU.Coding.Learning.Creating. "
 repository               : "练习项目"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Iceorange"
+  name             : "yanhui-losy"
   avatar           : "images/IMG_3049.png"
   bio              : "Capturing the beauty and curiosity."
   location         : "Fuzhou, China"
